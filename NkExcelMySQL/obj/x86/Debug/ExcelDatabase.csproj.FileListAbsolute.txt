@@ -1,0 +1,17 @@
+D:\VSE2013Proj\ExcelDatabase\bin\x86\Debug\ExcelDatabase.exe.config
+D:\VSE2013Proj\ExcelDatabase\obj\x86\Debug\ExcelDatabase.csproj.ResolveComReference.cache
+D:\VSE2013Proj\ExcelDatabase\obj\x86\Debug\ExcelDatabase.Properties.Resources.resources
+D:\VSE2013Proj\ExcelDatabase\obj\x86\Debug\ExcelDatabase.csproj.GenerateResource.Cache
+D:\VSE2013Proj\ExcelDatabase\bin\x86\Debug\ExcelDatabase.exe.manifest
+D:\VSE2013Proj\ExcelDatabase\bin\x86\Debug\ExcelDatabase.application
+D:\VSE2013Proj\ExcelDatabase\bin\x86\Debug\ExcelDatabase.exe
+D:\VSE2013Proj\ExcelDatabase\bin\x86\Debug\ExcelDatabase.pdb
+D:\VSE2013Proj\ExcelDatabase\bin\x86\Debug\System.Data.SQLite.dll
+D:\VSE2013Proj\ExcelDatabase\bin\x86\Debug\System.Data.SQLite.pdb
+D:\VSE2013Proj\ExcelDatabase\obj\x86\Debug\ExcelDatabase.exe.manifest
+D:\VSE2013Proj\ExcelDatabase\obj\x86\Debug\ExcelDatabase.application
+D:\VSE2013Proj\ExcelDatabase\obj\x86\Debug\ExcelDatabase.exe
+D:\VSE2013Proj\ExcelDatabase\obj\x86\Debug\ExcelDatabase.pdb
+D:\VSE2013Proj\ExcelDatabase\obj\x86\Debug\ExcelDatabase.Form0.resources
+D:\VSE2013Proj\ExcelDatabase\obj\x86\Debug\ExcelDatabase.Form1.resources
+D:\VSE2013Proj\ExcelDatabase\obj\x86\Debug\ExcelDatabase.csprojResolveAssemblyReference.cache

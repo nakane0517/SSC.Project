@@ -1,0 +1,2 @@
+D:\VSE2013Proj\NdExcelDB\bin\Release\ExcelDB.exe.config
+D:\VSE2013Proj\NdExcelDB\obj\Release\NdExcelDB.csproj.ResolveComReference.cache

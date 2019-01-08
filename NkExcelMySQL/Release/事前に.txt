@@ -1,0 +1,5 @@
+
+事前に MySQL 用 .NET コネクタをインストールして置いて下さい。
+
+	mysql-connector-net-6.8.3.msi
+

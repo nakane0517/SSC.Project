@@ -1,0 +1,12 @@
+D:\VSE2013Proj\ExcelSQLite\bin\x86\Debug\ExcelSQLite.exe.config
+D:\VSE2013Proj\ExcelSQLite\obj\x86\Debug\ExcelSQLite.csproj.ResolveComReference.cache
+D:\VSE2013Proj\ExcelSQLite\bin\x86\Debug\ExcelSQLite.exe
+D:\VSE2013Proj\ExcelSQLite\bin\x86\Debug\ExcelSQLite.pdb
+D:\VSE2013Proj\ExcelSQLite\bin\x86\Debug\System.Data.SQLite.dll
+D:\VSE2013Proj\ExcelSQLite\bin\x86\Debug\System.Data.SQLite.pdb
+D:\VSE2013Proj\ExcelSQLite\obj\x86\Debug\ExcelSQLite.Form1.resources
+D:\VSE2013Proj\ExcelSQLite\obj\x86\Debug\ExcelSQLite.Properties.Resources.resources
+D:\VSE2013Proj\ExcelSQLite\obj\x86\Debug\ExcelSQLite.csproj.GenerateResource.Cache
+D:\VSE2013Proj\ExcelSQLite\obj\x86\Debug\ExcelSQLite.exe
+D:\VSE2013Proj\ExcelSQLite\obj\x86\Debug\ExcelSQLite.pdb
+D:\VSE2013Proj\ExcelSQLite\obj\x86\Debug\ExcelSQLite.csprojResolveAssemblyReference.cache
